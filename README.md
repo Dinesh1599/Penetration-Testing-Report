@@ -1,8 +1,5 @@
 # Penetration Testing Report - ACME
 
-## Author
-**Tony Acosta Hernandez**
-
 ## Target Information
 - **Machine**: acme
 - **IP Address**: 192.168.1.100
